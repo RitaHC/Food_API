@@ -1,0 +1,4 @@
+[build]
+  functions = "netlify/functions"
+  publish = "/"  # Set this to "/" if you don't have a 'public' directory
+
